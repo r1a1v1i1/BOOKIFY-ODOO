@@ -37,7 +37,7 @@
 * Programming Language: Reactjs, Html, CSS and JS 
 * Database: Can use Mongodb or MYsql
 
-### Access and Contribution
+### Access and Contributions
 
 * Source Code Repository: https://github.com/r1a1v1i1/BOOKIFY-ODOO
 * Development is currently ongoing. Feel free to contribute through pull requests after reviewing the contribution guidelines within the repository.

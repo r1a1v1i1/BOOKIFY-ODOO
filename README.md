@@ -1,4 +1,4 @@
-# BOOKIFY-ODOO
+# BOOKIFY-ODoo
 
 ## Bookify: A Comprehensive Library Management System
 
